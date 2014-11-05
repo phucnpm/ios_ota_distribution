@@ -33,11 +33,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.aoi-sys.timecard</string>
+				<string>com.example.installing</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Timecard</string>
+				<string>Installing</string>
 			</dict>
 		</dict>
 	</array>

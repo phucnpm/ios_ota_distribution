@@ -33,11 +33,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.example.demo-app</string>
+				<string>vn.aoi-sys.installing</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Demo App</string>
+				<string>Installing</string>
 			</dict>
 		</dict>
 	</array>
